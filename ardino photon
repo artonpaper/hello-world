@@ -1,0 +1,2 @@
+pinMode(RX, OUTPUT); // Set RX pin as a digital output
+digitalWrite(RX, HIGH); // Write RX pin HIGH
